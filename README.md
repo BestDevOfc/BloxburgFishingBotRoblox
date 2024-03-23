@@ -5,7 +5,7 @@
 ![Example Image of Script](https://i.ibb.co/f8YpGJk/Screen-Shot-2024-03-22-at-10-57-26-AM.png
 )
 
-
+[![Proof of Concept of Script in Action](https://img.youtube.com/vi/jMbU7Hxfekg/0.jpg)](https://www.youtube.com/watch?v=jMbU7Hxfekg) 
 
 I got the idea for this project when I was playing this populr Roblox game where you have to take up numerous jobs and work to make money. In turn, that money is used to build your house, purchase vehicles, etc. However, there was one job that I realized was possible to bot using openCV and python which was the fishing game. 
 
