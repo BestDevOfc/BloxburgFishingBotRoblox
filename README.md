@@ -29,6 +29,9 @@ So the code does the following to determine if the Bob is underwater:
 
 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
 
+<img width="414" alt="Screenshot 2024-09-16 at 3 19 00 AM" src="https://github.com/user-attachments/assets/dd45acd7-bfab-4e31-a7c5-42e4025c75a1">
+
+
 **Before** running the script make sure to:
 - 1: Have **screencapture** installed (should be on your Mac by default)
 - 2: Run "**python3 -m pip install -r requirements.txt**"
